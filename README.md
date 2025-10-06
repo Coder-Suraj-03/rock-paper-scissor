@@ -1,4 +1,4 @@
-# rock-paper-scissor
+
 import random
 
 CHOICES = 'rps'
